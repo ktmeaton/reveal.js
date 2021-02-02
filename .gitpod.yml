@@ -1,0 +1,3 @@
+tasks:
+  - init: cd reveal.js && npm install
+    command: npm start
